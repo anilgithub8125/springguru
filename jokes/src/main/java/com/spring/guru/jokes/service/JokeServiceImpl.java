@@ -1,4 +1,4 @@
-package service;
+package com.spring.guru.jokes.service;
 
 import org.springframework.stereotype.Service;
 
